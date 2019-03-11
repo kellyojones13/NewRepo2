@@ -24,5 +24,16 @@ namespace Homework4
         {
             InitializeComponent();
         }
+
+        private void DogName_TextChanged(object sender, TextChangedEventArgs e)
+        {
+        https://dog.ceo/api/breeds/list/all
+
+
+        }
+        
     }
 }
+        
+    
+
