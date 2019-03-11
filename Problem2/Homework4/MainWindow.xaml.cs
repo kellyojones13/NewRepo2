@@ -31,7 +31,11 @@ namespace Homework4
 
 
         }
-        
+
+        private void DogOutput_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+          	https://dog.ceo/api/breed/cattledog/images/random 
+        }
     }
 }
         
